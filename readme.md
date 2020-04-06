@@ -3,6 +3,11 @@
 
 [国立国会図書館デジタルコレクション](http://dl.ndl.go.jp/)のインターネット公開資料から、頻出漢字の文字画像を切り出したデータセットを公開しました。画像形式はPNGで、計146,157画像あります。
 
+### データセットの権利
+
+「PDM（パブリック・ドメイン・マーク）」&lt; https://creativecommons.org/publicdomain/mark/1.0/deed.ja &gt;
+
+
 文字画像の例:
 
 <table ~~~ style="table-layout:fixed;width:100%;">
