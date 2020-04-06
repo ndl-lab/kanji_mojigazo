@@ -4,29 +4,29 @@
 [国立国会図書館デジタルコレクション](http://dl.ndl.go.jp/)のインターネット公開資料から、頻出漢字の文字画像を切り出したデータセットを公開しました。画像形式はPNGで、計146,157画像あります。
 
 文字画像の例:
-<table ~~~ style="table-layout:fixed;width:100%;">
 
+<table ~~~ style="table-layout:fixed;width:100%;">
 <tbody>
 <tr>
-<td align="center" ~~~ style="word-wrap:break-word;"><img alt="「あ」1900年" src="https://lab.ndl.go.jp/oldfile/1900_754949_0023.png" title="「あ」1900年"/>1900_754949_0023.png</td>
-<td align="center" ~~~ style="word-wrap:break-word;"><img alt="「あ」1910年" src="https://lab.ndl.go.jp/oldfile/1910_808569_0198.png" title="「あ」1910年"/>1910_808569_0198.png</td>
-<td align="center" ~~~ style="word-wrap:break-word;"><img alt="「あ」1920年" src="https://lab.ndl.go.jp/oldfile/1920_958609_0028.png" title="「あ」1920年"/>1920_958609_0028.png</td>
-<td align="center" ~~~ style="word-wrap:break-word;"><img alt="「あ」1930年" src="https://lab.ndl.go.jp/oldfile/1930_1873255_0111.png" title="「あ」1930年"/>1930_1873255_0111.png</td>
-<td align="center" ~~~ style="word-wrap:break-word;"><img alt="「あ」1940年" src="https://lab.ndl.go.jp/oldfile/1940_1239059_0066.png" title="「あ」1940年"/>1940_1239059_0066.png</td>
+<td align="center" ~~~ style="word-wrap:break-word;"><img alt="「國」1900年" src="https://lab.ndl.go.jp/oldfile/1900_2627871_0049.png" title="「國」1900年"/><br/>1900_2627871_0049.png</td>
+<td align="center" ~~~ style="word-wrap:break-word;"><img alt="「國」1910年" src="https://lab.ndl.go.jp/oldfile/1910_782492_0056.png" title="「國」1910年"/><br/>1910_782492_0056.png</td>
+<td align="center" ~~~ style="word-wrap:break-word;"><img alt="「國」1920年" src="https://lab.ndl.go.jp/oldfile/1920_958650_0032.png" title="「國」1920年"/><br/>1920_958650_0032.png</td>
+<td align="center" ~~~ style="word-wrap:break-word;"><img alt="「國」1930年" src="https://lab.ndl.go.jp/oldfile/1930_1173790_0037.png" title="「國」1930年"/><br/>1930_1173790_0037.png</td>
+<td align="center" ~~~ style="word-wrap:break-word;"><img alt="「國」1940年" src="https://lab.ndl.go.jp/oldfile/1940_1047044_0115.png" title="「國」1940年"/><br/>1940_1047044_0115.png</td>
 </tr>
 <tr>
-<td align="center" ~~~ style="word-wrap:break-word;"><img alt="「い」1900年" src="https://lab.ndl.go.jp/oldfile/1900_808821_0042.png" title="「い」1900年"/>1900_808821_0042.png</td>
-<td align="center" ~~~ style="word-wrap:break-word;"><img alt="「い」1910年" src="https://lab.ndl.go.jp/oldfile/1910_839986_0036.png" title="「い」1910年"/>1910_839986_0036.png</td>
-<td align="center" ~~~ style="word-wrap:break-word;"><img alt="「い」1920年" src="https://lab.ndl.go.jp/oldfile/1920_906916_0039.png" title="「い」1920年"/>1920_906916_0039.png</td>
-<td align="center" ~~~ style="word-wrap:break-word;"><img alt="「い」1930年" src="https://lab.ndl.go.jp/oldfile/1930_1175565_0024.png" title="「い」1930年"/>1930_1175565_0024.png</td>
-<td align="center" ~~~ style="word-wrap:break-word;"><img alt="「い」1940年" src="https://lab.ndl.go.jp/oldfile/1940_1873816_0084.png" title="「い」1940年"/>1940_1873816_0084.png</td>
+<td align="center" ~~~ style="word-wrap:break-word;"><img alt="「會」1900年" src="https://lab.ndl.go.jp/oldfile/1900_1917678_0032.png" title="「會」1900年"/><br/>1900_1917678_0032.png</td>
+<td align="center" ~~~ style="word-wrap:break-word;"><img alt="「會」1910年" src="https://lab.ndl.go.jp/oldfile/1910_817255_0059.png" title="「會」1910年"/><br/>1910_817255_0059.png</td>
+<td align="center" ~~~ style="word-wrap:break-word;"><img alt="「會」1920年" src="https://lab.ndl.go.jp/oldfile/1920_965188_0009.png" title="「會」1920年"/><br/>1920_965188_0009.png</td>
+<td align="center" ~~~ style="word-wrap:break-word;"><img alt="「會」1930年" src="https://lab.ndl.go.jp/oldfile/1930_1225733_0083.png" title="「會」1930年"/><br/>1930_1225733_0083.png</td>
+<td align="center" ~~~ style="word-wrap:break-word;"><img alt="「會」1940年" src="https://lab.ndl.go.jp/oldfile/1940_1918736_0071.png" title="「會」1940年"/><br/>1940_1918736_0071.png</td>
 </tr>
 <tr>
-<td align="center" ~~~ style="word-wrap:break-word;"><img alt="「う」1900年" src="https://lab.ndl.go.jp/oldfile/1900_890806_0066.png" title="「う」1900年"/>1900_890806_0066.png</td>
-<td align="center" ~~~ style="word-wrap:break-word;"><img alt="「う」1910年" src="https://lab.ndl.go.jp/oldfile/1910_813236_0091.png" title="「う」1910年"/>1910_813236_0091.png</td>
-<td align="center" ~~~ style="word-wrap:break-word;"><img alt="「う」1920年" src="https://lab.ndl.go.jp/oldfile/1920_961711_0105.png" title="「う」1920年"/>1920_961711_0105.png</td>
-<td align="center" ~~~ style="word-wrap:break-word;"><img alt="「う」1930年" src="https://lab.ndl.go.jp/oldfile/1930_1176246_0041.png" title="「う」1930年"/>1930_1176246_0041.png</td>
-<td align="center" ~~~ style="word-wrap:break-word;"><img alt="「う」1940年" src="https://lab.ndl.go.jp/oldfile/1940_1026632_0029.png" title="「う」1940年"/>1940_1026632_0029.png</td>
+<td align="center" ~~~ style="word-wrap:break-word;"><img alt="「圖」1900年" src="https://lab.ndl.go.jp/oldfile/1900_832463_0042.png" title="「圖」1900年"/><br/>1900_832463_0042.png</td>
+<td align="center" ~~~ style="word-wrap:break-word;"><img alt="「圖」1910年" src="https://lab.ndl.go.jp/oldfile/1910_761222_0105.png" title="「圖」1910年"/><br/>1910_761222_0105.png</td>
+<td align="center" ~~~ style="word-wrap:break-word;"><img alt="「圖」1920年" src="https://lab.ndl.go.jp/oldfile/1920_943730_0098.png" title="「圖」1920年"/><br/>1920_943730_0098.png</td>
+<td align="center" ~~~ style="word-wrap:break-word;"><img alt="「圖」1930年" src="https://lab.ndl.go.jp/oldfile/1930_1177710_0064.png" title="「圖」1930年"/><br/>1930_1177710_0064.png</td>
+<td align="center" ~~~ style="word-wrap:break-word;"><img alt="「圖」1940年" src="https://lab.ndl.go.jp/oldfile/1940_2942238_0159.png" title="「圖」1940年"/><br/>1940_2942238_0159.png</td>
 </tr>
 </tbody>
 </table>
