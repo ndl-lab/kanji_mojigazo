@@ -4,6 +4,32 @@
 [国立国会図書館デジタルコレクション](http://dl.ndl.go.jp/)のインターネット公開資料から、頻出漢字の文字画像を切り出したデータセットを公開しました。画像形式はPNGで、計146,157画像あります。
 
 文字画像の例:
+<table ~~~ style="table-layout:fixed;width:100%;">
+
+<tbody>
+<tr>
+<td align="center" ~~~ style="word-wrap:break-word;"><img alt="「あ」1900年" src="https://lab.ndl.go.jp/oldfile/1900_754949_0023.png" title="「あ」1900年"/>1900_754949_0023.png</td>
+<td align="center" ~~~ style="word-wrap:break-word;"><img alt="「あ」1910年" src="https://lab.ndl.go.jp/oldfile/1910_808569_0198.png" title="「あ」1910年"/>1910_808569_0198.png</td>
+<td align="center" ~~~ style="word-wrap:break-word;"><img alt="「あ」1920年" src="https://lab.ndl.go.jp/oldfile/1920_958609_0028.png" title="「あ」1920年"/>1920_958609_0028.png</td>
+<td align="center" ~~~ style="word-wrap:break-word;"><img alt="「あ」1930年" src="https://lab.ndl.go.jp/oldfile/1930_1873255_0111.png" title="「あ」1930年"/>1930_1873255_0111.png</td>
+<td align="center" ~~~ style="word-wrap:break-word;"><img alt="「あ」1940年" src="https://lab.ndl.go.jp/oldfile/1940_1239059_0066.png" title="「あ」1940年"/>1940_1239059_0066.png</td>
+</tr>
+<tr>
+<td align="center" ~~~ style="word-wrap:break-word;"><img alt="「い」1900年" src="https://lab.ndl.go.jp/oldfile/1900_808821_0042.png" title="「い」1900年"/>1900_808821_0042.png</td>
+<td align="center" ~~~ style="word-wrap:break-word;"><img alt="「い」1910年" src="https://lab.ndl.go.jp/oldfile/1910_839986_0036.png" title="「い」1910年"/>1910_839986_0036.png</td>
+<td align="center" ~~~ style="word-wrap:break-word;"><img alt="「い」1920年" src="https://lab.ndl.go.jp/oldfile/1920_906916_0039.png" title="「い」1920年"/>1920_906916_0039.png</td>
+<td align="center" ~~~ style="word-wrap:break-word;"><img alt="「い」1930年" src="https://lab.ndl.go.jp/oldfile/1930_1175565_0024.png" title="「い」1930年"/>1930_1175565_0024.png</td>
+<td align="center" ~~~ style="word-wrap:break-word;"><img alt="「い」1940年" src="https://lab.ndl.go.jp/oldfile/1940_1873816_0084.png" title="「い」1940年"/>1940_1873816_0084.png</td>
+</tr>
+<tr>
+<td align="center" ~~~ style="word-wrap:break-word;"><img alt="「う」1900年" src="https://lab.ndl.go.jp/oldfile/1900_890806_0066.png" title="「う」1900年"/>1900_890806_0066.png</td>
+<td align="center" ~~~ style="word-wrap:break-word;"><img alt="「う」1910年" src="https://lab.ndl.go.jp/oldfile/1910_813236_0091.png" title="「う」1910年"/>1910_813236_0091.png</td>
+<td align="center" ~~~ style="word-wrap:break-word;"><img alt="「う」1920年" src="https://lab.ndl.go.jp/oldfile/1920_961711_0105.png" title="「う」1920年"/>1920_961711_0105.png</td>
+<td align="center" ~~~ style="word-wrap:break-word;"><img alt="「う」1930年" src="https://lab.ndl.go.jp/oldfile/1930_1176246_0041.png" title="「う」1930年"/>1930_1176246_0041.png</td>
+<td align="center" ~~~ style="word-wrap:break-word;"><img alt="「う」1940年" src="https://lab.ndl.go.jp/oldfile/1940_1026632_0029.png" title="「う」1940年"/>1940_1026632_0029.png</td>
+</tr>
+</tbody>
+</table>
 
 こちらからダウンロードできます(どの形式でも内容は同じです)。
 
